@@ -1,4 +1,6 @@
 # [Kaggle Courses](https://www.kaggle.com/learn)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com) 
+
 A repository where I upload all my notebooks of the kaggle courses.
 
 - [Intro to Programming](#intro-to-programming)
