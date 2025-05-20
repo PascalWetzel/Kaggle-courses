@@ -204,23 +204,17 @@ Combine data sources. Critical for almost all real-world data problems
 ## [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 Take your SQL skills to the next level.
 
-1. [Getting Started With SQL and BigQuery](https://www.kaggle.com/code/dansbecker/getting-started-with-sql-and-bigquery)  
-Learn the workflow for handling big datasets with BigQuery and SQL
+1. [JOINs and UNIONs](https://www.kaggle.com/code/alexisbcook/joins-and-unions)  
+Combine information from multiple tables.
 
-2. [Select, From & Where](https://www.kaggle.com/code/dansbecker/select-from-where)  
-The foundational compontents for all SQL queries
+2. [Analytic Functions](https://www.kaggle.com/code/alexisbcook/analytic-functions)  
+Perform complex calculations on groups of rows.
 
-3. [Group By, Having & Count](https://www.kaggle.com/code/dansbecker/group-by-having-count)  
-Get more interesting insights directly from your SQL queries
+3. [Nested and Repeated Data](https://www.kaggle.com/code/alexisbcook/nested-and-repeated-data)  
+Learn to query complex datatypes in BigQuery.
 
-4. [Order By](https://www.kaggle.com/code/dansbecker/order-by)  
-Order your results to focus on the most important data for your use case.
-
-5. [As & With](https://www.kaggle.com/code/dansbecker/as-with)  
-Organize your query for better readability. This becomes especially important for complex queries.
-
-6. [Joining Data](https://www.kaggle.com/code/dansbecker/joining-data)  
-Combine data sources. Critical for almost all real-world data problems
+4. [Writing Efficient Queries](https://www.kaggle.com/code/alexisbcook/writing-efficient-queries)  
+Write queries to run faster and use less data.
 
 ## [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 Use TensorFlow and Keras to build and train neural networks for structured data.
