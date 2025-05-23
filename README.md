@@ -24,7 +24,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 ## [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
 Get started with Python, if you have no coding experience.
 
-1. [Arithmetic and Variables](https://www.kaggle.com/code/alexisbcook/arithmetic-and-variables)  
+1. [Arithmetic and Variables](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/01-arithmetic-and-variables.ipynb)  
 Make calculations, and define and modify variables.
 
 2. [Functions](https://www.kaggle.com/code/alexisbcook/functions)  
