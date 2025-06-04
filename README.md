@@ -27,16 +27,16 @@ Get started with Python, if you have no coding experience.
 1. [Arithmetic and Variables](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/01-arithmetic-and-variables.ipynb)  
 Make calculations, and define and modify variables.
 
-2. [Functions](https://www.kaggle.com/code/alexisbcook/functions)  
+2. [Functions](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/02-functions.ipynb)  
 Organize your code and avoid redundancy.
 
-3. [Data Types](https://www.kaggle.com/code/alexisbcook/data-types)  
+3. [Data Types](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/03-data-types.ipynb)  
 Explore integers, floats, booleans, and strings.
 
-4. [Conditions and Conditional Statements](https://www.kaggle.com/code/alexisbcook/conditions-and-conditional-statements)  
+4. [Conditions and Conditional Statements](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/04-conditions-and-conditional-statements.ipynb)  
 Modify how functions run, depending on the input.
 
-5. [Intro to Lists](https://www.kaggle.com/code/alexisbcook/intro-to-lists)  
+5. [Intro to Lists](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/05-intro-to-lists.ipynb)  
 Organize your data so you can work with it efficiently.
 
 ## [Python](https://www.kaggle.com/learn/python)
