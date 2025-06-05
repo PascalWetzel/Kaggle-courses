@@ -39,6 +39,9 @@ Modify how functions run, depending on the input.
 5. [Intro to Lists](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/05-intro-to-lists.ipynb)  
 Organize your data so you can work with it efficiently.
 
+[Bonus lesson: Titanic Tutorial](https://www.kaggle.com/code/alexisbcook/titanic-tutorial)  
+Make your first submission to a Kaggle competition!
+
 ## [Python](https://www.kaggle.com/learn/python)
 Learn the most important language for data science.
 
