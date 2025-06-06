@@ -3,7 +3,7 @@
 
 A repository where I upload all my notebooks of the kaggle courses.
 
-- [Intro to Programming](#intro-to-programming)
+- [Intro to Programming](#intro-to-programming-)
 - [Python](#python)
 - [Intro to Machine Learning](#intro-to-machine-learning)
 - [Pandas](#pandas)
@@ -21,7 +21,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Machine Learning Explainability](#machine-learning-explainability)
 - [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
 
-## [Intro to Programming](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
+## [Intro to Programming ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
 Get started with Python, if you have no coding experience.
 
 1. [Arithmetic and Variables](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/01-arithmetic-and-variables.ipynb)  
