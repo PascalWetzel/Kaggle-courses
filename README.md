@@ -21,7 +21,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Machine Learning Explainability](#machine-learning-explainability)
 - [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
 
-## [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
+## [Intro to Programming](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
 Get started with Python, if you have no coding experience.
 
 1. [Arithmetic and Variables](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/01-arithmetic-and-variables.ipynb)  
@@ -39,7 +39,7 @@ Modify how functions run, depending on the input.
 5. [Intro to Lists](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/05-intro-to-lists.ipynb)  
 Organize your data so you can work with it efficiently.
 
-[Bonus lesson: Titanic Tutorial](https://www.kaggle.com/code/alexisbcook/titanic-tutorial)  
+[Bonus lesson: Titanic Tutorial](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/bonus-getting-started-with-titanic.ipynb)  
 Make your first submission to a Kaggle competition!
 
 ## [Python](https://www.kaggle.com/learn/python)
