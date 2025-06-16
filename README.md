@@ -42,7 +42,7 @@ Organize your data so you can work with it efficiently.
 [Bonus lesson: Titanic Tutorial](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/bonus-getting-started-with-titanic.ipynb)  
 Make your first submission to a Kaggle competition!
 
-## [Python](https://www.kaggle.com/learn/python)
+## [Python](https://github.com/PascalWetzel/Kaggle-courses/tree/main/python)
 Learn the most important language for data science.
 
 1. [Hello, Python](https://www.kaggle.com/code/colinmorris/hello-python)  
