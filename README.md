@@ -4,7 +4,7 @@
 A repository where I upload all my notebooks of the kaggle courses.
 
 - [Intro to Programming](#intro-to-programming-)
-- [Python](#python)
+- [Python](#python-)
 - [Intro to Machine Learning](#intro-to-machine-learning)
 - [Pandas](#pandas)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
@@ -42,28 +42,28 @@ Organize your data so you can work with it efficiently.
 [Bonus lesson: Titanic Tutorial](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/bonus-getting-started-with-titanic.ipynb)  
 Make your first submission to a Kaggle competition!
 
-## [Python](https://github.com/PascalWetzel/Kaggle-courses/tree/main/python)
+## [Python ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/python)
 Learn the most important language for data science.
 
-1. [Hello, Python](https://www.kaggle.com/code/colinmorris/hello-python)  
+1. [Hello, Python](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/01-syntax-variables-and-numbers.ipynb)  
 A quick introduction to Python syntax, variable assignment, and numbers
 
-2. [Functions and Getting Help](https://www.kaggle.com/code/colinmorris/functions-and-getting-help)  
+2. [Functions and Getting Help](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/02-functions-and-getting-help.ipynb)  
 Calling functions and defining our own, and using Python's builtin documentation
 
-3. [Booleans and Conditionals](https://www.kaggle.com/code/colinmorris/booleans-and-conditionals)  
+3. [Booleans and Conditionals](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/03-booleans-and-conditionals.ipynb)  
 Using booleans for branching logic
 
-4. [Lists](https://www.kaggle.com/code/colinmorris/lists)  
+4. [Lists](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/04-lists.ipynb)  
 Lists and the things you can do with them. Includes indexing, slicing and mutating
 
-5. [Loops and List Comprehensions](https://www.kaggle.com/code/colinmorris/loops-and-list-comprehensions)  
+5. [Loops and List Comprehensions](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/05-loops-and-list-comprehensions.ipynb)  
 For and while loops, and a much-loved Python feature: list comprehensions
 
-6. [Strings and Dictionaries](https://www.kaggle.com/code/colinmorris/strings-and-dictionaries)  
+6. [Strings and Dictionaries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/06-strings-and-dictionaries.ipynb)  
 Working with strings and dictionaries, two fundamental Python data types
 
-7. [Working with External Libraries](https://www.kaggle.com/code/colinmorris/working-with-external-libraries)  
+7. [Working with External Libraries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
 ## [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
