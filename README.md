@@ -66,7 +66,7 @@ Working with strings and dictionaries, two fundamental Python data types
 7. [Working with External Libraries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
-## [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+## [Intro to Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_machine_learning)
 Learn the core ideas in machine learning, and build your first models.
 
 1. [How Models Work](https://www.kaggle.com/code/dansbecker/how-models-work)  
