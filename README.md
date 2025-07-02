@@ -5,7 +5,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 
 - [Intro to Programming](#intro-to-programming-)
 - [Python](#python-)
-- [Intro to Machine Learning](#intro-to-machine-learning)
+- [Intro to Machine Learning](#intro-to-machine-learning-)
 - [Pandas](#pandas)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Data Visualization](#data-visualization)
@@ -66,7 +66,7 @@ Working with strings and dictionaries, two fundamental Python data types
 7. [Working with External Libraries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
-## [Intro to Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_machine_learning)
+## [Intro to Machine Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_machine_learning)
 Learn the core ideas in machine learning, and build your first models.
 
 1. [How Models Work](https://www.kaggle.com/code/dansbecker/how-models-work)  
