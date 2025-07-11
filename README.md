@@ -6,7 +6,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Intro to Programming](#intro-to-programming-)
 - [Python](#python-)
 - [Intro to Machine Learning](#intro-to-machine-learning-)
-- [Pandas](#pandas)
+- [Pandas](#pandas-)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Data Visualization](#data-visualization)
 - [Feature Engineering](#feature-engineering)
@@ -90,7 +90,7 @@ Using a more sophisticated machine learning algorithm.
 7. [Machine Learning Competitions](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
 Enter the world of machine learning competitions to keep improving and see your progress.
 
-## [Pandas](https://github.com/PascalWetzel/Kaggle-courses/tree/main/pandas)
+## [Pandas ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/pandas)
 Solve short hands-on challenges to perfect your data manipulation skills.
 
 1. [Creating, Reading and Writing](https://github.com/PascalWetzel/Kaggle-courses/blob/main/pandas/01-creating-reading-and-writing.ipynb)  
