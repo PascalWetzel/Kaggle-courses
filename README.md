@@ -111,7 +111,7 @@ Deal with the most common progress-blocking problems
 6. [Renaming and Combining](https://github.com/PascalWetzel/Kaggle-courses/blob/main/pandas/06-renaming-and-combining.ipynb)  
 Data comes in from many sources. Help it all make sense together
 
-## [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+## [Intermediate Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intermediate_machine_learning)
 Handle missing values, non-numeric values, data leakage, and more.
 
 1. [Introduction](https://www.kaggle.com/code/alexisbcook/introduction)  
