@@ -114,25 +114,25 @@ Data comes in from many sources. Help it all make sense together
 ## [Intermediate Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intermediate_machine_learning)
 Handle missing values, non-numeric values, data leakage, and more.
 
-1. [Introduction](https://www.kaggle.com/code/alexisbcook/introduction)  
+1. [Introduction](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/01-introduction.ipynb)  
 Review what you need for this course.
 
-2. [Missing Values](https://www.kaggle.com/code/alexisbcook/missing-values)  
+2. [Missing Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/02-missing-values.ipynb)  
 Missing values happen. Be prepared for this common challenge in real datasets.
 
-3. [Categorical Variables](https://www.kaggle.com/code/alexisbcook/categorical-variables)  
+3. [Categorical Variables](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/03-categorical-variables.ipynb)  
 There's a lot of non-numeric data out there. Here's how to use it for machine learning.
 
-4. [Pipelines](https://www.kaggle.com/code/alexisbcook/pipelines)  
+4. [Pipelines](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/04-pipelines.ipynb)  
 A critical skill for deploying (and even testing) complex models with pre-processing.
 
-5. [Cross-Validation](https://www.kaggle.com/code/alexisbcook/cross-validation)  
+5. [Cross-Validation](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/05-cross-validation.ipynb)  
 A better way to test your models.
 
-6. [XGBoost](https://www.kaggle.com/code/alexisbcook/xgboost)  
+6. [XGBoost](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/06-xgboost.ipynb)  
 The most accurate modeling technique for structured data.
 
-7. [Data Leakage](https://www.kaggle.com/code/alexisbcook/data-leakage)  
+7. [Data Leakage](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/07-data-leakage.ipynb)  
 Find and fix this problem that ruins your model in subtle ways.
 
 ## [Data Visualization](https://www.kaggle.com/learn/data-visualization)
