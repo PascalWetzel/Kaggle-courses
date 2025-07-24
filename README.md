@@ -7,7 +7,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Python](#python-)
 - [Intro to Machine Learning](#intro-to-machine-learning-)
 - [Pandas](#pandas-)
-- [Intermediate Machine Learning](#intermediate-machine-learning)
+- [Intermediate Machine Learning](#intermediate-machine-learning-)
 - [Data Visualization](#data-visualization)
 - [Feature Engineering](#feature-engineering)
 - [Intro to SQL](#intro-to-sql)
@@ -111,7 +111,7 @@ Deal with the most common progress-blocking problems
 6. [Renaming and Combining](https://github.com/PascalWetzel/Kaggle-courses/blob/main/pandas/06-renaming-and-combining.ipynb)  
 Data comes in from many sources. Help it all make sense together
 
-## [Intermediate Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intermediate_machine_learning)
+## [Intermediate Machine Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intermediate_machine_learning)
 Handle missing values, non-numeric values, data leakage, and more.
 
 1. [Introduction](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/01-introduction.ipynb)  
