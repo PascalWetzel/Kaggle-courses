@@ -135,7 +135,7 @@ The most accurate modeling technique for structured data.
 7. [Data Leakage](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/07-data-leakage.ipynb)  
 Find and fix this problem that ruins your model in subtle ways.
 
-## [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+## [Data Visualization](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_visualization)
 Make great data visualizations. A great way to see the power of coding!
 
 1. [Hello, Seaborn](https://www.kaggle.com/code/alexisbcook/hello-seaborn)  
