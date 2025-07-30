@@ -8,7 +8,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Intro to Machine Learning](#intro-to-machine-learning-)
 - [Pandas](#pandas-)
 - [Intermediate Machine Learning](#intermediate-machine-learning-)
-- [Data Visualization](#data-visualization)
+- [Data Visualization](#data-visualization-)
 - [Feature Engineering](#feature-engineering)
 - [Intro to SQL](#intro-to-sql)
 - [Advanced SQL](#advanced-sql)
@@ -135,7 +135,7 @@ The most accurate modeling technique for structured data.
 7. [Data Leakage](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/07-data-leakage.ipynb)  
 Find and fix this problem that ruins your model in subtle ways.
 
-## [Data Visualization](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_visualization)
+## [Data Visualization ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_visualization)
 Make great data visualizations. A great way to see the power of coding!
 
 1. [Hello, Seaborn](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/01-hello-seaborn.ipynb)  
