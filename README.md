@@ -138,25 +138,25 @@ Find and fix this problem that ruins your model in subtle ways.
 ## [Data Visualization](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_visualization)
 Make great data visualizations. A great way to see the power of coding!
 
-1. [Hello, Seaborn](https://www.kaggle.com/code/alexisbcook/hello-seaborn)  
+1. [Hello, Seaborn](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/01-hello-seaborn.ipynb)  
 Your first introduction to coding for data visualization
 
-2. [Line Charts](https://www.kaggle.com/code/alexisbcook/line-charts)  
+2. [Line Charts](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/02-line-charts.ipynb)  
 Visualize trends over time
 
-3. [Bar Charts and Heatmaps](https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps)  
+3. [Bar Charts and Heatmaps](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/03-bar-charts-and-heatmaps.ipynb)  
 Use color or length to compare categories in a dataset
 
-4. [Scatter Plots](https://www.kaggle.com/code/alexisbcook/scatter-plots)  
+4. [Scatter Plots](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/04-scatter-plots.ipynb)  
 Leverage the coordinate plane to explore relationships between variables
 
-5. [Distributions](https://www.kaggle.com/code/alexisbcook/distributions)  
+5. [Distributions](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/05-distributions.ipynb)  
 Create histograms and density plots
 
-6. [Choosing Plot Types and Custom Styles](https://www.kaggle.com/code/alexisbcook/choosing-plot-types-and-custom-styles)  
+6. [Choosing Plot Types and Custom Styles](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/06-choosing-plot-types-and-custom-styles.ipynb)  
 Customize your charts and make them look snazzy
 
-7. [Final Project](https://www.kaggle.com/code/alexisbcook/final-project)  
+7. [Final Project](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/07-final-project.ipynb)  
 Practice for real-world application
 
 8. [Creating Your Own Notebooks](https://www.kaggle.com/code/alexisbcook/creating-your-own-notebooks)  
