@@ -162,7 +162,7 @@ Practice for real-world application
 8. [Creating Your Own Notebooks](https://www.kaggle.com/code/alexisbcook/creating-your-own-notebooks)  
 How to put your new skills to use for your next personal or work project
 
-## [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+## [Feature Engineering](https://github.com/PascalWetzel/Kaggle-courses/tree/main/feature_engineering)
 Better features make better models. Discover how to get the most out of your data.
 
 1. [What Is Feature Engineering](https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering)  
