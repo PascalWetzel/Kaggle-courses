@@ -183,6 +183,9 @@ Discover new features by analyzing variation.
 6. [Target Encoding](https://www.kaggle.com/code/ryanholbrook/target-encoding)  
 Boost any categorical feature with this powerful technique.
 
+[Bonus lesson: Feature Engineering for House Prices](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices)  
+Apply what you've learned, and join the House Prices competition!
+
 ## [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 Learn SQL for working with databases, using Google BigQuery.
 
