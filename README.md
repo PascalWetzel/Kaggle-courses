@@ -186,7 +186,7 @@ Boost any categorical feature with this powerful technique.
 [Bonus lesson: Feature Engineering for House Prices](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/bonus-feature-engineering-for-house-prices.ipynb)  
 Apply what you've learned, and join the House Prices competition!
 
-## [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+## [Intro to SQL](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_SQL)
 Learn SQL for working with databases, using Google BigQuery.
 
 1. [Getting Started With SQL and BigQuery](https://www.kaggle.com/code/dansbecker/getting-started-with-sql-and-bigquery)  
