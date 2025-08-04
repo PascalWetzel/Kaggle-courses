@@ -168,22 +168,22 @@ Better features make better models. Discover how to get the most out of your dat
 1. [What Is Feature Engineering](https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering)  
 Learn the steps and principles of creating better features
 
-2. [Mutual Information](https://www.kaggle.com/code/ryanholbrook/mutual-information)  
+2. [Mutual Information](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/02-mutual-information.ipynb)  
 Locate features with the most potential.
 
-3. [Creating Features](https://www.kaggle.com/code/ryanholbrook/creating-features)  
+3. [Creating Features](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/03-creating-features.ipynb)  
 Transform features with Pandas to suit your model.
 
-4. [Clustering With K-Means](https://www.kaggle.com/code/ryanholbrook/clustering-with-k-means)  
+4. [Clustering With K-Means](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/04-clustering-with-k-means.ipynb)  
 Untangle complex spatial relationships with cluster labels.
 
-5. [Principal Component Analysis](https://www.kaggle.com/code/ryanholbrook/principal-component-analysis)  
+5. [Principal Component Analysis](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/05-principal-component-analysis.ipynb)  
 Discover new features by analyzing variation.
 
-6. [Target Encoding](https://www.kaggle.com/code/ryanholbrook/target-encoding)  
+6. [Target Encoding](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/06-target-encoding.ipynb)  
 Boost any categorical feature with this powerful technique.
 
-[Bonus lesson: Feature Engineering for House Prices](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices)  
+[Bonus lesson: Feature Engineering for House Prices](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/bonus-feature-engineering-for-house-prices.ipynb)  
 Apply what you've learned, and join the House Prices competition!
 
 ## [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
