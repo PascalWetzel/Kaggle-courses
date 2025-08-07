@@ -10,7 +10,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Intermediate Machine Learning](#intermediate-machine-learning-)
 - [Data Visualization](#data-visualization-)
 - [Feature Engineering](#feature-engineering-)
-- [Intro to SQL](#intro-to-sql)
+- [Intro to SQL](#intro-to-sql-)
 - [Advanced SQL](#advanced-sql)
 - [Intro to Deep Learning](#intro-to-deep-learning)
 - [Computer Vision](#computer-vision)
@@ -186,7 +186,7 @@ Boost any categorical feature with this powerful technique.
 [Bonus lesson: Feature Engineering for House Prices](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/bonus-feature-engineering-for-house-prices.ipynb)  
 Apply what you've learned, and join the House Prices competition!
 
-## [Intro to SQL](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_SQL)
+## [Intro to SQL ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_SQL)
 Learn SQL for working with databases, using Google BigQuery.
 
 1. [Getting Started With SQL and BigQuery](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/01-getting-started-with-sql-and-bigquery.ipynb)  
