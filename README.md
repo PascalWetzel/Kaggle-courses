@@ -189,22 +189,22 @@ Apply what you've learned, and join the House Prices competition!
 ## [Intro to SQL](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_SQL)
 Learn SQL for working with databases, using Google BigQuery.
 
-1. [Getting Started With SQL and BigQuery](https://www.kaggle.com/code/dansbecker/getting-started-with-sql-and-bigquery)  
+1. [Getting Started With SQL and BigQuery](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/01-getting-started-with-sql-and-bigquery.ipynb)  
 Learn the workflow for handling big datasets with BigQuery and SQL
 
-2. [Select, From & Where](https://www.kaggle.com/code/dansbecker/select-from-where)  
+2. [Select, From & Where](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/02-select-from-where.ipynb)  
 The foundational compontents for all SQL queries
 
-3. [Group By, Having & Count](https://www.kaggle.com/code/dansbecker/group-by-having-count)  
+3. [Group By, Having & Count](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/03-group-by-having-count.ipynb)  
 Get more interesting insights directly from your SQL queries
 
-4. [Order By](https://www.kaggle.com/code/dansbecker/order-by)  
+4. [Order By](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/04-order-by.ipynb)  
 Order your results to focus on the most important data for your use case.
 
-5. [As & With](https://www.kaggle.com/code/dansbecker/as-with)  
+5. [As & With](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/05-as-with.ipynb)  
 Organize your query for better readability. This becomes especially important for complex queries.
 
-6. [Joining Data](https://www.kaggle.com/code/dansbecker/joining-data)  
+6. [Joining Data](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/06-joining-data.ipynb)  
 Combine data sources. Critical for almost all real-world data problems
 
 ## [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
