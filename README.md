@@ -207,7 +207,7 @@ Organize your query for better readability. This becomes especially important fo
 6. [Joining Data](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/06-joining-data.ipynb)  
 Combine data sources. Critical for almost all real-world data problems
 
-## [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+## [Advanced SQL](https://github.com/PascalWetzel/Kaggle-courses/tree/main/advanced_SQL)
 Take your SQL skills to the next level.
 
 1. [JOINs and UNIONs](https://www.kaggle.com/code/alexisbcook/joins-and-unions)  
