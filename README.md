@@ -11,7 +11,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Data Visualization](#data-visualization-)
 - [Feature Engineering](#feature-engineering-)
 - [Intro to SQL](#intro-to-sql-)
-- [Advanced SQL](#advanced-sql)
+- [Advanced SQL](#advanced-sql-)
 - [Intro to Deep Learning](#intro-to-deep-learning)
 - [Computer Vision](#computer-vision)
 - [Time Series](#time-series)
@@ -207,7 +207,7 @@ Organize your query for better readability. This becomes especially important fo
 6. [Joining Data](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/06-joining-data.ipynb)  
 Combine data sources. Critical for almost all real-world data problems
 
-## [Advanced SQL](https://github.com/PascalWetzel/Kaggle-courses/tree/main/advanced_SQL)
+## [Advanced SQL ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/advanced_SQL)
 Take your SQL skills to the next level.
 
 1. [JOINs and UNIONs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/01-joins-and-unions.ipynb)  
