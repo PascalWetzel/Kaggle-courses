@@ -210,16 +210,16 @@ Combine data sources. Critical for almost all real-world data problems
 ## [Advanced SQL](https://github.com/PascalWetzel/Kaggle-courses/tree/main/advanced_SQL)
 Take your SQL skills to the next level.
 
-1. [JOINs and UNIONs](https://www.kaggle.com/code/alexisbcook/joins-and-unions)  
+1. [JOINs and UNIONs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/01-joins-and-unions.ipynb)  
 Combine information from multiple tables.
 
-2. [Analytic Functions](https://www.kaggle.com/code/alexisbcook/analytic-functions)  
+2. [Analytic Functions](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/02-analytic-functions.ipynb)  
 Perform complex calculations on groups of rows.
 
-3. [Nested and Repeated Data](https://www.kaggle.com/code/alexisbcook/nested-and-repeated-data)  
+3. [Nested and Repeated Data](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/03-nested-and-repeated-data.ipynb)  
 Learn to query complex datatypes in BigQuery.
 
-4. [Writing Efficient Queries](https://www.kaggle.com/code/alexisbcook/writing-efficient-queries)  
+4. [Writing Efficient Queries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/04-writing-efficient-queries.ipynb)  
 Write queries to run faster and use less data.
 
 ## [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
