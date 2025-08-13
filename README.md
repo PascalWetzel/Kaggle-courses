@@ -222,7 +222,7 @@ Learn to query complex datatypes in BigQuery.
 4. [Writing Efficient Queries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/04-writing-efficient-queries.ipynb)  
 Write queries to run faster and use less data.
 
-## [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+## [Intro to Deep Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_deep_learning)
 Use TensorFlow and Keras to build and train neural networks for structured data.
 
 1. [A Single Neuron](https://www.kaggle.com/code/ryanholbrook/a-single-neuron)  
