@@ -243,6 +243,9 @@ Add these special layers to prevent overfitting and stabilize training.
 6. [Binary Classification](https://www.kaggle.com/code/ryanholbrook/binary-classification)  
 Apply deep learning to another common task.
 
+[Bonus lesson: Detecting the Higgs Boson With TPUs](https://www.kaggle.com/code/ryanholbrook/detecting-the-higgs-boson-with-tpus)  
+Get started with Tensor Processing Units (TPUs)!
+
 ## [Computer Vision](https://www.kaggle.com/learn/computer-vision)
 Build convolutional neural networks with TensorFlow and Keras.
 
