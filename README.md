@@ -12,7 +12,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Feature Engineering](#feature-engineering-)
 - [Intro to SQL](#intro-to-sql-)
 - [Advanced SQL](#advanced-sql-)
-- [Intro to Deep Learning](#intro-to-deep-learning)
+- [Intro to Deep Learning](#intro-to-deep-learning-)
 - [Computer Vision](#computer-vision)
 - [Time Series](#time-series)
 - [Data Cleaning](#data-cleaning)
@@ -222,7 +222,7 @@ Learn to query complex datatypes in BigQuery.
 4. [Writing Efficient Queries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/04-writing-efficient-queries.ipynb)  
 Write queries to run faster and use less data.
 
-## [Intro to Deep Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_deep_learning)
+## [Intro to Deep Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_deep_learning)
 Use TensorFlow and Keras to build and train neural networks for structured data.
 
 1. [A Single Neuron](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/01-a-single-neuron.ipynb)  
