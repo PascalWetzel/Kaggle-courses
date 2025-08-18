@@ -225,25 +225,25 @@ Write queries to run faster and use less data.
 ## [Intro to Deep Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_deep_learning)
 Use TensorFlow and Keras to build and train neural networks for structured data.
 
-1. [A Single Neuron](https://www.kaggle.com/code/ryanholbrook/a-single-neuron)  
+1. [A Single Neuron](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/01-a-single-neuron.ipynb)  
 Learn about linear units, the building blocks of deep learning.
 
-2. [Deep Neural Networks](https://www.kaggle.com/code/ryanholbrook/deep-neural-networks)  
+2. [Deep Neural Networks](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/02-deep-neural-networks.ipynb)  
 Add hidden layers to your network to uncover complex relationships.
 
-3. [Stochastic Gradient Descent](https://www.kaggle.com/code/ryanholbrook/stochastic-gradient-descent)  
+3. [Stochastic Gradient Descent](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/03-stochastic-gradient-descent.ipynb)  
 Use Keras and Tensorflow to train your first neural network.
 
-4. [Overfitting and Underfitting](https://www.kaggle.com/code/ryanholbrook/overfitting-and-underfitting)  
+4. [Overfitting and Underfitting](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/04-overfitting-and-underfitting.ipynb)  
 Improve performance with extra capacity or early stopping.
 
-5. [Dropout and Batch Normalization](https://www.kaggle.com/code/ryanholbrook/dropout-and-batch-normalization)  
+5. [Dropout and Batch Normalization](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/05-dropout-and-batch-normalization.ipynb)  
 Add these special layers to prevent overfitting and stabilize training.
 
-6. [Binary Classification](https://www.kaggle.com/code/ryanholbrook/binary-classification)  
+6. [Binary Classification](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/06-binary-classification.ipynb)  
 Apply deep learning to another common task.
 
-[Bonus lesson: Detecting the Higgs Boson With TPUs](https://www.kaggle.com/code/ryanholbrook/detecting-the-higgs-boson-with-tpus)  
+[Bonus lesson: Detecting the Higgs Boson With TPUs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/bonus-the-higgs-boson-with-tpus.ipynb)  
 Get started with Tensor Processing Units (TPUs)!
 
 ## [Computer Vision](https://www.kaggle.com/learn/computer-vision)
