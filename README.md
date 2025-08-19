@@ -246,7 +246,7 @@ Apply deep learning to another common task.
 [Bonus lesson: Detecting the Higgs Boson With TPUs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/bonus-the-higgs-boson-with-tpus.ipynb)  
 Get started with Tensor Processing Units (TPUs)!
 
-## [Computer Vision](https://www.kaggle.com/learn/computer-vision)
+## [Computer Vision](https://github.com/PascalWetzel/Kaggle-courses/tree/main/computer_vision)
 Build convolutional neural networks with TensorFlow and Keras.
 
 1. [The Convolutional Classifier](https://www.kaggle.com/code/ryanholbrook/the-convolutional-classifier)  
