@@ -267,6 +267,15 @@ Design your own convnet.
 6. [Data Augmentation](https://www.kaggle.com/code/ryanholbrook/data-augmentation)  
 Boost performance by creating extra training data.
 
+[Bonus lesson: Create Your First Submission](https://www.kaggle.com/code/ryanholbrook/create-your-first-submission)  
+Use Kaggle's free TPUs to make a submission to the Petals to the Metal competition!
+
+[Bonus lesson: Getting Started: TPUs + Cassava Leaf Disease](https://www.kaggle.com/code/jessemostipak/getting-started-tpus-cassava-leaf-disease)  
+Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classification competition.
+
+[Bonus lesson: Transfer Learning](https://www.kaggle.com/code/dansbecker/transfer-learning)  
+Use a pre-trained model to solve a new task.
+
 ## [Time Series](https://www.kaggle.com/learn/time-series)
 Apply machine learning to real-world forecasting tasks.
 
