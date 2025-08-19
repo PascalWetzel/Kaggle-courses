@@ -1,4 +1,4 @@
-## [Pandas](https://www.kaggle.com/learn/pandas)
+# [Pandas](https://www.kaggle.com/learn/pandas)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Solve short hands-on challenges to perfect your data manipulation skills.
