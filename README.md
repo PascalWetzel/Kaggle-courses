@@ -13,7 +13,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Intro to SQL](#intro-to-sql-)
 - [Advanced SQL](#advanced-sql-)
 - [Intro to Deep Learning](#intro-to-deep-learning-)
-- [Computer Vision](#computer-vision)
+- [Computer Vision](#computer-vision-)
 - [Time Series](#time-series)
 - [Data Cleaning](#data-cleaning)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
@@ -246,7 +246,7 @@ Apply deep learning to another common task.
 [Bonus lesson: Detecting the Higgs Boson With TPUs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/bonus-the-higgs-boson-with-tpus.ipynb)  
 Get started with Tensor Processing Units (TPUs)!
 
-## [Computer Vision](https://github.com/PascalWetzel/Kaggle-courses/tree/main/computer_vision)
+## [Computer Vision ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/computer_vision)
 Build convolutional neural networks with TensorFlow and Keras.
 
 1. [The Convolutional Classifier](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/01-the-convolutional-classifier.ipynb)  
