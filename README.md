@@ -249,31 +249,31 @@ Get started with Tensor Processing Units (TPUs)!
 ## [Computer Vision](https://github.com/PascalWetzel/Kaggle-courses/tree/main/computer_vision)
 Build convolutional neural networks with TensorFlow and Keras.
 
-1. [The Convolutional Classifier](https://www.kaggle.com/code/ryanholbrook/the-convolutional-classifier)  
+1. [The Convolutional Classifier](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/01-the-convolutional-classifier.ipynb)  
 Create your first computer vision model with Keras.
 
-2. [Convolution and ReLU](https://www.kaggle.com/code/ryanholbrook/convolution-and-relu)  
+2. [Convolution and ReLU](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/02-convolution-and-relu.ipynb)  
 Add hidden layers to your network to uncover complex relationships.
 
-3. [Maximum Pooling](https://www.kaggle.com/code/ryanholbrook/maximum-pooling)  
+3. [Maximum Pooling](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/03-maximum-pooling.ipynb)  
 Learn more about feature extraction with maximum pooling.
 
-4. [The Sliding Window](https://www.kaggle.com/code/ryanholbrook/the-sliding-window)  
+4. [The Sliding Window](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/04-the-sliding-window.ipynb)  
 Explore two important parameters: stride and padding.
 
-5. [Custom Convnets](https://www.kaggle.com/code/ryanholbrook/custom-convnets)  
+5. [Custom Convnets](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/05-custom-convnets.ipynb)  
 Design your own convnet.
 
-6. [Data Augmentation](https://www.kaggle.com/code/ryanholbrook/data-augmentation)  
+6. [Data Augmentation](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/06-data-augmentation.ipynb)  
 Boost performance by creating extra training data.
 
-[Bonus lesson: Create Your First Submission](https://www.kaggle.com/code/ryanholbrook/create-your-first-submission)  
+[Bonus lesson: Create Your First Submission](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/bonus-create-your-first-submission.ipynb)  
 Use Kaggle's free TPUs to make a submission to the Petals to the Metal competition!
 
-[Bonus lesson: Getting Started: TPUs + Cassava Leaf Disease](https://www.kaggle.com/code/jessemostipak/getting-started-tpus-cassava-leaf-disease)  
+[Bonus lesson: Getting Started: TPUs + Cassava Leaf Disease](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/bonus-getting-started-tpus-cassava-leaf-disease.ipynb)  
 Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classification competition.
 
-[Bonus lesson: Transfer Learning](https://www.kaggle.com/code/dansbecker/transfer-learning)  
+[Bonus lesson: Transfer Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/bonus-transfer-learning.ipynb)  
 Use a pre-trained model to solve a new task.
 
 ## [Time Series](https://www.kaggle.com/learn/time-series)
