@@ -276,7 +276,7 @@ Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classifi
 [Bonus lesson: Transfer Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/bonus-transfer-learning.ipynb)  
 Use a pre-trained model to solve a new task.
 
-## [Time Series](https://www.kaggle.com/learn/time-series)
+## [Time Series](https://github.com/PascalWetzel/Kaggle-courses/tree/main/time_series)
 Apply machine learning to real-world forecasting tasks.
 
 1. [Linear Regression With Time Series](https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series)  
