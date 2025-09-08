@@ -14,7 +14,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Advanced SQL](#advanced-sql-)
 - [Intro to Deep Learning](#intro-to-deep-learning-)
 - [Computer Vision](#computer-vision-)
-- [Time Series](#time-series)
+- [Time Series](#time-series-)
 - [Data Cleaning](#data-cleaning)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
 - [Geospatial Analysis](#geospatial-analysis)
@@ -276,7 +276,7 @@ Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classifi
 [Bonus lesson: Transfer Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/bonus-transfer-learning.ipynb)  
 Use a pre-trained model to solve a new task.
 
-## [Time Series](https://github.com/PascalWetzel/Kaggle-courses/tree/main/time_series)
+## [Time Series ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/time_series)
 Apply machine learning to real-world forecasting tasks.
 
 1. [Linear Regression With Time Series](https://github.com/PascalWetzel/Kaggle-courses/blob/main/time_series/01-linear-regression-with-time-series.ipynb)  
