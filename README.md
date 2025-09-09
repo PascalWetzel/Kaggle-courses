@@ -297,7 +297,7 @@ Combine the strengths of two forecasters with this powerful technique.
 6. [Forecasting With Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/time_series/06-forecasting-with-machine-learning.ipynb)  
 Apply ML to any forecasting task with these four strategies.
 
-## [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+## [Data Cleaning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_cleaning)
 Master efficient workflows for cleaning real-world, messy data.
 
 1. [Handling Missing Values](https://www.kaggle.com/code/alexisbcook/handling-missing-values)  
