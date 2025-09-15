@@ -15,7 +15,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Intro to Deep Learning](#intro-to-deep-learning-)
 - [Computer Vision](#computer-vision-)
 - [Time Series](#time-series-)
-- [Data Cleaning](#data-cleaning)
+- [Data Cleaning](#data-cleaning-)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
 - [Geospatial Analysis](#geospatial-analysis)
 - [Machine Learning Explainability](#machine-learning-explainability)
@@ -297,7 +297,7 @@ Combine the strengths of two forecasters with this powerful technique.
 6. [Forecasting With Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/time_series/06-forecasting-with-machine-learning.ipynb)  
 Apply ML to any forecasting task with these four strategies.
 
-## [Data Cleaning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_cleaning)
+## [Data Cleaning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_cleaning)
 Master efficient workflows for cleaning real-world, messy data.
 
 1. [Handling Missing Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/01-handling-missing-values.ipynb)  
