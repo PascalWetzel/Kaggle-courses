@@ -300,19 +300,19 @@ Apply ML to any forecasting task with these four strategies.
 ## [Data Cleaning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_cleaning)
 Master efficient workflows for cleaning real-world, messy data.
 
-1. [Handling Missing Values](https://www.kaggle.com/code/alexisbcook/handling-missing-values)  
+1. [Handling Missing Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/01-handling-missing-values.ipynb)  
 Drop missing values, or fill them in with an automated workflow.
 
-2. [Scaling and Normalization](https://www.kaggle.com/code/alexisbcook/scaling-and-normalization)  
+2. [Scaling and Normalization](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/02-scaling-and-normalization.ipynb)  
 Transform numeric variables to have helpful properties.
 
-3. [Parsing Dates](https://www.kaggle.com/code/alexisbcook/parsing-dates)  
+3. [Parsing Dates](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/03-parsing-dates.ipynb)  
 Help Python recognize dates as composed of day, month, and year.
 
-4. [Character Encodings](https://www.kaggle.com/code/alexisbcook/character-encodings)  
+4. [Character Encodings](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/04-character-encodings.ipynb)  
 Avoid UnicoodeDecodeErrors when loading CSV files.
 
-5. [Inconsistent Data Entry](https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry)  
+5. [Inconsistent Data Entry](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/05-inconsistent-data-entry.ipynb)  
 Efficiently fix typos in your data.
 
 ## [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)
