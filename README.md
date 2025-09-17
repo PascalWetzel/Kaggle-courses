@@ -315,7 +315,7 @@ Avoid UnicoodeDecodeErrors when loading CSV files.
 5. [Inconsistent Data Entry](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/05-inconsistent-data-entry.ipynb)  
 Efficiently fix typos in your data.
 
-## [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)
+## [Intro to AI Ethics](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_AI_ethics)
 Explore practical tools to guide the moral design of AI systems.
 
 1. [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)  
