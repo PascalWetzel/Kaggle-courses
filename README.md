@@ -321,16 +321,16 @@ Explore practical tools to guide the moral design of AI systems.
 1. [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)  
 Learn what to expect from the course.
 
-2. [Human-Centered Design for AI](https://www.kaggle.com/code/var0101/human-centered-design-for-ai)  
+2. [Human-Centered Design for AI](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/02-human-centered-design-for-ai.ipynb)  
 Design systems that serve people’s needs. Navigate issues in several real-world scenarios.
 
-3. [Identifying Bias in AI](https://www.kaggle.com/code/alexisbcook/identifying-bias-in-ai)  
+3. [Identifying Bias in AI](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/03-identifying-bias-in-ai.ipynb)  
 Bias can creep in at any stage in the pipeline. Investigate a simple model that identifies toxic text.
 
-4. [AI Fairness](https://www.kaggle.com/code/alexisbcook/ai-fairness)  
+4. [AI Fairness](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/04-ai-fairness.ipynb)  
 Learn about four different types of fairness. Assess a toy model trained to judge credit card applications.
 
-5. [Model Cards](https://www.kaggle.com/code/var0101/model-cards)  
+5. [Model Cards](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/05-model-cards.ipynb)  
 Increase transparency by communicating key information about machine learning models.
 
 ## [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)
