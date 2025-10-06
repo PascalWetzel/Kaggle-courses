@@ -333,7 +333,7 @@ Learn about four different types of fairness. Assess a toy model trained to judg
 5. [Model Cards](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/05-model-cards.ipynb)  
 Increase transparency by communicating key information about machine learning models.
 
-## [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)
+## [Geospatial Analysis](https://github.com/PascalWetzel/Kaggle-courses/tree/main/geospatial_analysis)
 Create interactive maps, and discover patterns in geospatial data.
 
 1. [Your First Map](https://www.kaggle.com/code/alexisbcook/your-first-map)  
