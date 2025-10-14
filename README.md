@@ -17,7 +17,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Time Series](#time-series-)
 - [Data Cleaning](#data-cleaning-)
 - [Intro to AI Ethics](#intro-to-ai-ethics-)
-- [Geospatial Analysis](#geospatial-analysis)
+- [Geospatial Analysis](#geospatial-analysis-)
 - [Machine Learning Explainability](#machine-learning-explainability)
 - [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
 
@@ -333,7 +333,7 @@ Learn about four different types of fairness. Assess a toy model trained to judg
 5. [Model Cards](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/05-model-cards.ipynb)  
 Increase transparency by communicating key information about machine learning models.
 
-## [Geospatial Analysis](https://github.com/PascalWetzel/Kaggle-courses/tree/main/geospatial_analysis)
+## [Geospatial Analysis ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/geospatial_analysis)
 Create interactive maps, and discover patterns in geospatial data.
 
 1. [Your First Map](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/01-your-first-map.ipynb)  
