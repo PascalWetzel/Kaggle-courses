@@ -336,22 +336,22 @@ Increase transparency by communicating key information about machine learning mo
 ## [Geospatial Analysis](https://github.com/PascalWetzel/Kaggle-courses/tree/main/geospatial_analysis)
 Create interactive maps, and discover patterns in geospatial data.
 
-1. [Your First Map](https://www.kaggle.com/code/alexisbcook/your-first-map)  
+1. [Your First Map](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/01-your-first-map.ipynb)  
 Get started with plotting in GeoPandas.
 
-2. [Coordinate Reference Systems](https://www.kaggle.com/code/alexisbcook/coordinate-reference-systems)  
+2. [Coordinate Reference Systems](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/02-coordinate-reference-systems.ipynb)  
 It's pretty amazing that we can represent the Earth's surface in 2 dimensions!
 
-3. [Interactive Maps](https://www.kaggle.com/code/alexisbcook/interactive-maps)  
+3. [Interactive Maps](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/03-interactive-maps.ipynb)  
 Learn how to make interactive heatmaps, choropleth maps, and more!
 
-4. [Manipulating Geospatial Data](https://www.kaggle.com/code/alexisbcook/manipulating-geospatial-data)  
+4. [Manipulating Geospatial Data](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/04-manipulating-geospatial-data.ipynb)  
 Find locations with just the name of a place. And, learn how to join data based on spatial relationships.
 
-5. [Proximity Analysis](https://www.kaggle.com/code/alexisbcook/proximity-analysis)  
+5. [Proximity Analysis](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/05-proximity-analysis.ipynb)  
 Measure distance, and explore neighboring points on a map.
 
-[Bonus lesson: US Vaccine Tracker](https://www.kaggle.com/code/peretzcohen/us-vaccine-tracker)  
+[Bonus lesson: US Vaccine Tracker](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/bonus-us-vaccine-tracker.ipynb)  
 Create an interactive COVID-19 vaccine tracker.
 
 ## [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
