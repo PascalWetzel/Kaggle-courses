@@ -357,6 +357,21 @@ Create an interactive COVID-19 vaccine tracker.
 ## [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 Extract human-understandable insights from any model.
 
+1. [Use Cases for Model Insights](https://www.kaggle.com/code/dansbecker/use-cases-for-model-insights)  
+Why and when do you need insights?
+
+2. [Permutation Importance](https://www.kaggle.com/code/dansbecker/permutation-importance)  
+What features does your model think are important?
+
+3. [Partial Plots](https://www.kaggle.com/code/dansbecker/partial-plots)  
+How does each feature affect your predictions?
+
+4. [SHAP Values](https://www.kaggle.com/code/dansbecker/shap-values)  
+Understand individual predictions
+
+5. [Advanced Uses of SHAP Values](https://www.kaggle.com/code/dansbecker/advanced-uses-of-shap-values)  
+Aggregate SHAP values for even more detailed model insights
+
 ## [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
 Build your own video game bots, using classic and cutting-edge algorithms.
 
