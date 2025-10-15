@@ -354,7 +354,7 @@ Measure distance, and explore neighboring points on a map.
 [Bonus lesson: US Vaccine Tracker](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/bonus-us-vaccine-tracker.ipynb)  
 Create an interactive COVID-19 vaccine tracker.
 
-## [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+## [Machine Learning Explainability](https://github.com/PascalWetzel/Kaggle-courses/tree/main/machine_learning_explainability)
 Extract human-understandable insights from any model.
 
 1. [Use Cases for Model Insights](https://www.kaggle.com/code/dansbecker/use-cases-for-model-insights)  
