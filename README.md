@@ -18,7 +18,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Data Cleaning](#data-cleaning-)
 - [Intro to AI Ethics](#intro-to-ai-ethics-)
 - [Geospatial Analysis](#geospatial-analysis-)
-- [Machine Learning Explainability](#machine-learning-explainability)
+- [Machine Learning Explainability](#machine-learning-explainability-)
 - [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
 
 ## [Intro to Programming ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
@@ -354,7 +354,7 @@ Measure distance, and explore neighboring points on a map.
 [Bonus lesson: US Vaccine Tracker](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/bonus-us-vaccine-tracker.ipynb)  
 Create an interactive COVID-19 vaccine tracker.
 
-## [Machine Learning Explainability](https://github.com/PascalWetzel/Kaggle-courses/tree/main/machine_learning_explainability)
+## [Machine Learning Explainability ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/machine_learning_explainability)
 Extract human-understandable insights from any model.
 
 1. [Use Cases for Model Insights](https://www.kaggle.com/code/dansbecker/use-cases-for-model-insights)  
