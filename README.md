@@ -372,7 +372,7 @@ Understand individual predictions
 5. [Advanced Uses of SHAP Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
 Aggregate SHAP values for even more detailed model insights
 
-## [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
+## [Intro to Game AI and Reinforcement Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_game_AI_and_reinforcement_learning)
 Build your own video game bots, using classic and cutting-edge algorithms.
 
 1. [Play the Game](https://www.kaggle.com/code/alexisbcook/play-the-game)  
