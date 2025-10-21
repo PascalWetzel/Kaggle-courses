@@ -386,3 +386,6 @@ Use the minimax algorithm to dramatically improve your agent.
 
 4. [Deep Reinforcement Learning](https://www.kaggle.com/code/alexisbcook/deep-reinforcement-learning)  
 Explore advanced techniques for creating intelligent agents.
+
+[Bonus lesson: Getting Started With Halite](https://www.kaggle.com/code/alexisbcook/getting-started-with-halite)  
+Put your new skills to the test with a more complex game.
