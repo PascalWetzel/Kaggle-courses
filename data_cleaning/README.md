@@ -1,4 +1,4 @@
-# [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+# [🧹 Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Master efficient workflows for cleaning real-world, messy data.
