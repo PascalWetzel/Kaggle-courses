@@ -1,4 +1,4 @@
-# [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
+# [💻 Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Get started with Python, if you have no coding experience.
