@@ -1,4 +1,4 @@
-# [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)
+# [🌍 Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Create interactive maps, and discover patterns in geospatial data.
