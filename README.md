@@ -19,7 +19,7 @@ A repository where I upload all my notebooks of the kaggle courses.
 - [Intro to AI Ethics](#intro-to-ai-ethics-)
 - [Geospatial Analysis](#geospatial-analysis-)
 - [Machine Learning Explainability](#machine-learning-explainability-)
-- [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
+- [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning-)
 
 ## [Intro to Programming ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
 Get started with Python, if you have no coding experience.
@@ -372,7 +372,7 @@ Understand individual predictions
 5. [Advanced Uses of SHAP Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
 Aggregate SHAP values for even more detailed model insights
 
-## [Intro to Game AI and Reinforcement Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_game_AI_and_reinforcement_learning)
+## [Intro to Game AI and Reinforcement Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_game_AI_and_reinforcement_learning)
 Build your own video game bots, using classic and cutting-edge algorithms.
 
 1. [Play the Game](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/01-play-the-game.ipynb)  
