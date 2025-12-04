@@ -1,4 +1,4 @@
-# [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+# [🤖 Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Learn the core ideas in machine learning, and build your first models.
