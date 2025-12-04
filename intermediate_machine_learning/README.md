@@ -1,4 +1,4 @@
-# [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+# [📈 Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Handle missing values, non-numeric values, data leakage, and more.
