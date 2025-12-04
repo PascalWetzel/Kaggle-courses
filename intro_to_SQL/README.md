@@ -1,4 +1,4 @@
-# [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+# [🛢 Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Learn SQL for working with databases, using Google BigQuery.
