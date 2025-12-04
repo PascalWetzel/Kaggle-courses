@@ -1,4 +1,4 @@
-# [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+# [🧠 Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Use TensorFlow and Keras to build and train neural networks for structured data.
