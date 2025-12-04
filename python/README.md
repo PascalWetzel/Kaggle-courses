@@ -1,4 +1,4 @@
-# [Python](https://www.kaggle.com/learn/python)
+# [🐍 Python](https://www.kaggle.com/learn/python)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Learn the most important language for data science.
