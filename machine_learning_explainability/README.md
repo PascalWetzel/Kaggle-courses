@@ -1,4 +1,4 @@
-# [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+# [🔍 Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Extract human-understandable insights from any model.
