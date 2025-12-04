@@ -1,27 +1,41 @@
-# [Kaggle Courses](https://www.kaggle.com/learn)
+# [📚 Kaggle Courses](https://www.kaggle.com/learn)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com) 
 
-A repository where I upload all my notebooks of the kaggle courses.
+Welcome to my complete collection of notebooks from all the Kaggle courses!  
+This repository serves as a personal learning log where I document my progress, practice new concepts, and experiment with different techniques across data science, machine learning, and AI.
 
-- [Intro to Programming](#intro-to-programming-)
-- [Python](#python-)
-- [Intro to Machine Learning](#intro-to-machine-learning-)
-- [Pandas](#pandas-)
-- [Intermediate Machine Learning](#intermediate-machine-learning-)
-- [Data Visualization](#data-visualization-)
-- [Feature Engineering](#feature-engineering-)
-- [Intro to SQL](#intro-to-sql-)
-- [Advanced SQL](#advanced-sql-)
-- [Intro to Deep Learning](#intro-to-deep-learning-)
-- [Computer Vision](#computer-vision-)
-- [Time Series](#time-series-)
-- [Data Cleaning](#data-cleaning-)
-- [Intro to AI Ethics](#intro-to-ai-ethics-)
-- [Geospatial Analysis](#geospatial-analysis-)
-- [Machine Learning Explainability](#machine-learning-explainability-)
-- [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning-)
+Each notebook reflects hands-on exercises, explanations, and small explorations I made while working through the courses. My goals with this repo are to:
 
-## [Intro to Programming ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
+- 🧠 Strengthen my understanding of core ML and data analysis concepts
+- 🛠️ Build a structured, searchable archive of my Kaggle coursework
+- 🚀 Share my learning journey with others who might find it helpful
+
+Feel free to browse, learn, or reuse parts of the notebooks. Any feedback or suggestions are always welcome!
+
+<details open>
+<summary><strong>📑 Table of Contents</strong></summary>
+
+- [💻 Intro to Programming](#-intro-to-programming-)
+- [🐍 Python](#-python-)
+- [🤖 Intro to Machine Learning](#-intro-to-machine-learning-)
+- [🐼 Pandas](#-pandas-)
+- [📈 Intermediate Machine Learning](#-intermediate-machine-learning-)
+- [📊 Data Visualization](#-data-visualization-)
+- [🔧 Feature Engineering](#-feature-engineering-)
+- [🛢 Intro to SQL](#-intro-to-sql-)
+- [🗄️ Advanced SQL](#advanced-sql)
+- [🧠 Intro to Deep Learning](#-intro-to-deep-learning-)
+- [👁️ Computer Vision](#computer-vision)
+- [⏳ Time Series](#-time-series-)
+- [🧹 Data Cleaning](#-data-cleaning-)
+- [⚖️ Intro to AI Ethics](#intro-to-ai-ethics)
+- [🌍 Geospatial Analysis](#-geospatial-analysis-)
+- [🔍 Machine Learning Explainability](#-machine-learning-explainability-)
+- [🎮 Intro to Game AI and Reinforcement Learning](#-intro-to-game-ai-and-reinforcement-learning-)
+
+</details>
+
+## [💻 Intro to Programming ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_programming)
 Get started with Python, if you have no coding experience.
 
 1. [Arithmetic and Variables](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/01-arithmetic-and-variables.ipynb)  
@@ -42,7 +56,7 @@ Organize your data so you can work with it efficiently.
 [Bonus lesson: Titanic Tutorial](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_programming/bonus-getting-started-with-titanic.ipynb)  
 Make your first submission to a Kaggle competition!
 
-## [Python ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/python)
+## [🐍 Python ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/python)
 Learn the most important language for data science.
 
 1. [Hello, Python](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/01-syntax-variables-and-numbers.ipynb)  
@@ -66,7 +80,7 @@ Working with strings and dictionaries, two fundamental Python data types
 7. [Working with External Libraries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
-## [Intro to Machine Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_machine_learning)
+## [🤖 Intro to Machine Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_machine_learning)
 Learn the core ideas in machine learning, and build your first models.
 
 1. [How Models Work](https://www.kaggle.com/code/dansbecker/how-models-work)  
@@ -90,7 +104,7 @@ Using a more sophisticated machine learning algorithm.
 7. [Machine Learning Competitions](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
 Enter the world of machine learning competitions to keep improving and see your progress.
 
-## [Pandas ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/pandas)
+## [🐼 Pandas ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/pandas)
 Solve short hands-on challenges to perfect your data manipulation skills.
 
 1. [Creating, Reading and Writing](https://github.com/PascalWetzel/Kaggle-courses/blob/main/pandas/01-creating-reading-and-writing.ipynb)  
@@ -111,7 +125,7 @@ Deal with the most common progress-blocking problems
 6. [Renaming and Combining](https://github.com/PascalWetzel/Kaggle-courses/blob/main/pandas/06-renaming-and-combining.ipynb)  
 Data comes in from many sources. Help it all make sense together
 
-## [Intermediate Machine Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intermediate_machine_learning)
+## [📈 Intermediate Machine Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intermediate_machine_learning)
 Handle missing values, non-numeric values, data leakage, and more.
 
 1. [Introduction](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/01-introduction.ipynb)  
@@ -135,7 +149,7 @@ The most accurate modeling technique for structured data.
 7. [Data Leakage](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intermediate_machine_learning/07-data-leakage.ipynb)  
 Find and fix this problem that ruins your model in subtle ways.
 
-## [Data Visualization ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_visualization)
+## [📊 Data Visualization ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_visualization)
 Make great data visualizations. A great way to see the power of coding!
 
 1. [Hello, Seaborn](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_visualization/01-hello-seaborn.ipynb)  
@@ -162,7 +176,7 @@ Practice for real-world application
 8. [Creating Your Own Notebooks](https://www.kaggle.com/code/alexisbcook/creating-your-own-notebooks)  
 How to put your new skills to use for your next personal or work project
 
-## [Feature Engineering ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/feature_engineering)
+## [🔧 Feature Engineering ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/feature_engineering)
 Better features make better models. Discover how to get the most out of your data.
 
 1. [What Is Feature Engineering](https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering)  
@@ -186,7 +200,7 @@ Boost any categorical feature with this powerful technique.
 [Bonus lesson: Feature Engineering for House Prices](https://github.com/PascalWetzel/Kaggle-courses/blob/main/feature_engineering/bonus-feature-engineering-for-house-prices.ipynb)  
 Apply what you've learned, and join the House Prices competition!
 
-## [Intro to SQL ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_SQL)
+## [🛢 Intro to SQL ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_SQL)
 Learn SQL for working with databases, using Google BigQuery.
 
 1. [Getting Started With SQL and BigQuery](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/01-getting-started-with-sql-and-bigquery.ipynb)  
@@ -207,7 +221,8 @@ Organize your query for better readability. This becomes especially important fo
 6. [Joining Data](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_SQL/06-joining-data.ipynb)  
 Combine data sources. Critical for almost all real-world data problems
 
-## [Advanced SQL ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/advanced_SQL)
+<a id="advanced-sql"></a>
+## [🗄️ Advanced SQL ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/advanced_SQL)
 Take your SQL skills to the next level.
 
 1. [JOINs and UNIONs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/01-joins-and-unions.ipynb)  
@@ -222,7 +237,7 @@ Learn to query complex datatypes in BigQuery.
 4. [Writing Efficient Queries](https://github.com/PascalWetzel/Kaggle-courses/blob/main/advanced_SQL/04-writing-efficient-queries.ipynb)  
 Write queries to run faster and use less data.
 
-## [Intro to Deep Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_deep_learning)
+## [🧠 Intro to Deep Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_deep_learning)
 Use TensorFlow and Keras to build and train neural networks for structured data.
 
 1. [A Single Neuron](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/01-a-single-neuron.ipynb)  
@@ -246,7 +261,8 @@ Apply deep learning to another common task.
 [Bonus lesson: Detecting the Higgs Boson With TPUs](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_deep_learning/bonus-the-higgs-boson-with-tpus.ipynb)  
 Get started with Tensor Processing Units (TPUs)!
 
-## [Computer Vision ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/computer_vision)
+<a id="computer-vision"></a>
+## [👁️ Computer Vision ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/computer_vision)
 Build convolutional neural networks with TensorFlow and Keras.
 
 1. [The Convolutional Classifier](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/01-the-convolutional-classifier.ipynb)  
@@ -276,7 +292,7 @@ Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classifi
 [Bonus lesson: Transfer Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/computer_vision/bonus-transfer-learning.ipynb)  
 Use a pre-trained model to solve a new task.
 
-## [Time Series ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/time_series)
+## [⏳ Time Series ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/time_series)
 Apply machine learning to real-world forecasting tasks.
 
 1. [Linear Regression With Time Series](https://github.com/PascalWetzel/Kaggle-courses/blob/main/time_series/01-linear-regression-with-time-series.ipynb)  
@@ -297,7 +313,7 @@ Combine the strengths of two forecasters with this powerful technique.
 6. [Forecasting With Machine Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/time_series/06-forecasting-with-machine-learning.ipynb)  
 Apply ML to any forecasting task with these four strategies.
 
-## [Data Cleaning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_cleaning)
+## [🧹 Data Cleaning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/data_cleaning)
 Master efficient workflows for cleaning real-world, messy data.
 
 1. [Handling Missing Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/01-handling-missing-values.ipynb)  
@@ -315,7 +331,8 @@ Avoid UnicoodeDecodeErrors when loading CSV files.
 5. [Inconsistent Data Entry](https://github.com/PascalWetzel/Kaggle-courses/blob/main/data_cleaning/05-inconsistent-data-entry.ipynb)  
 Efficiently fix typos in your data.
 
-## [Intro to AI Ethics ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_AI_ethics)
+<a id="intro-to-ai-ethics"></a>
+## [⚖️ Intro to AI Ethics ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_AI_ethics)
 Explore practical tools to guide the moral design of AI systems.
 
 1. [Introduction to AI Ethics](https://www.kaggle.com/code/var0101/introduction-to-ai-ethics)  
@@ -333,7 +350,7 @@ Learn about four different types of fairness. Assess a toy model trained to judg
 5. [Model Cards](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_AI_ethics/05-model-cards.ipynb)  
 Increase transparency by communicating key information about machine learning models.
 
-## [Geospatial Analysis ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/geospatial_analysis)
+## [🌍 Geospatial Analysis ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/geospatial_analysis)
 Create interactive maps, and discover patterns in geospatial data.
 
 1. [Your First Map](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/01-your-first-map.ipynb)  
@@ -354,7 +371,7 @@ Measure distance, and explore neighboring points on a map.
 [Bonus lesson: US Vaccine Tracker](https://github.com/PascalWetzel/Kaggle-courses/blob/main/geospatial_analysis/bonus-us-vaccine-tracker.ipynb)  
 Create an interactive COVID-19 vaccine tracker.
 
-## [Machine Learning Explainability ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/machine_learning_explainability)
+## [🔍 Machine Learning Explainability ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/machine_learning_explainability)
 Extract human-understandable insights from any model.
 
 1. [Use Cases for Model Insights](https://www.kaggle.com/code/dansbecker/use-cases-for-model-insights)  
@@ -372,7 +389,7 @@ Understand individual predictions
 5. [Advanced Uses of SHAP Values](https://github.com/PascalWetzel/Kaggle-courses/blob/main/machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
 Aggregate SHAP values for even more detailed model insights
 
-## [Intro to Game AI and Reinforcement Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_game_AI_and_reinforcement_learning)
+## [🎮 Intro to Game AI and Reinforcement Learning ✅](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_game_AI_and_reinforcement_learning)
 Build your own video game bots, using classic and cutting-edge algorithms.
 
 1. [Play the Game](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/01-play-the-game.ipynb)  
