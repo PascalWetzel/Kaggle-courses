@@ -1,4 +1,4 @@
-# [Time Series](https://www.kaggle.com/learn/time-series)
+# [⏳ Time Series](https://www.kaggle.com/learn/time-series)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Apply machine learning to real-world forecasting tasks.
