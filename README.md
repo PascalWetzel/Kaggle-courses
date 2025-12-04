@@ -375,17 +375,17 @@ Aggregate SHAP values for even more detailed model insights
 ## [Intro to Game AI and Reinforcement Learning](https://github.com/PascalWetzel/Kaggle-courses/tree/main/intro_to_game_AI_and_reinforcement_learning)
 Build your own video game bots, using classic and cutting-edge algorithms.
 
-1. [Play the Game](https://www.kaggle.com/code/alexisbcook/play-the-game)  
+1. [Play the Game](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/01-play-the-game.ipynb)  
 Write your first game-playing agent.
 
-2. [One-Step Lookahead](https://www.kaggle.com/code/alexisbcook/one-step-lookahead)  
+2. [One-Step Lookahead](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/02-one-step-lookahead.ipynb)  
 Make your agent smarter with a few simple changes.
 
-3. [N-Step Lookahead](https://www.kaggle.com/code/alexisbcook/n-step-lookahead)  
+3. [N-Step Lookahead](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/03-n-step-lookahead.ipynb)  
 Use the minimax algorithm to dramatically improve your agent.
 
-4. [Deep Reinforcement Learning](https://www.kaggle.com/code/alexisbcook/deep-reinforcement-learning)  
+4. [Deep Reinforcement Learning](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/04-deep-reinforcement-learning.ipynb)  
 Explore advanced techniques for creating intelligent agents.
 
-[Bonus lesson: Getting Started With Halite](https://www.kaggle.com/code/alexisbcook/getting-started-with-halite)  
+[Bonus lesson: Getting Started With Halite](https://github.com/PascalWetzel/Kaggle-courses/blob/main/intro_to_game_AI_and_reinforcement_learning/bonus-getting-started-with-halite.ipynb)  
 Put your new skills to the test with a more complex game.
