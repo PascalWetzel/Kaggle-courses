@@ -1,4 +1,4 @@
-# [Computer Vision](https://www.kaggle.com/learn/computer-vision)
+# [👁️ Computer Vision](https://www.kaggle.com/learn/computer-vision)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Build convolutional neural networks with TensorFlow and Keras.
