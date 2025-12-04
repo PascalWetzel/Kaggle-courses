@@ -1,4 +1,4 @@
-# [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+# [📊 Data Visualization](https://www.kaggle.com/learn/data-visualization)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Make great data visualizations. A great way to see the power of coding!
