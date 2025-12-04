@@ -1,4 +1,4 @@
-# [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+# [🗄️ Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Take your SQL skills to the next level.
