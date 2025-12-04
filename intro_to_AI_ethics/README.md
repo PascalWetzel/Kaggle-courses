@@ -1,4 +1,4 @@
-# [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)
+# [⚖️ Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 Explore practical tools to guide the moral design of AI systems.
